@@ -1,6 +1,6 @@
-senadoPRI_V3_0
+senadoPRI_V3
 ==============
 
-Senado PRI Version 3.0
+Senado PRI Version 3
 
 Inicio de Proyecto
